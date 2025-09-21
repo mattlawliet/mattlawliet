@@ -14,7 +14,7 @@ I'm a passionate about building applications and solutions with a keen interest 
 ## 🛠️ Skills
 
 - **Programming Languages:** HTML, CSS, Javascript, SQL, Python
-- **Technologies & Tools:** [List of tools and technologies you are familiar with]
+- **Technologies & Tools:** []
 
 ## 🌐 Connect with Me
 
